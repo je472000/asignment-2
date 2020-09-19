@@ -1,0 +1,173 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  color: #717074;
+}
+
+.basics {
+  box-sizing: border-box;
+}
+.list {
+  box-sizing: border-box;
+}
+.three {
+  box-sizing: border-box;
+}
+.why {
+  border: 10px solid black;
+  position: absolute;
+  top: 100px;
+  bottom: 100px;
+  right: 600px;
+  left: 600px;
+  border-width: 5px;
+  box-sizing: 100px 100px;
+  width: 200px;
+  height: 200px;
+  background-color: aquamarine;
+  color: rgb(131, 81, 20);
+}
+
+.topSection {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.topSection a {
+  text-decoration: none;
+  font-weight: bold;
+  color: white;
+}
+
+.topSection-inner {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 10px 40px;
+  background: #009cde;
+  color: white;
+}
+
+.innerLink {
+  margin-top: 20px;
+}
+
+.topImage {
+  width: 100px;
+}
+
+.formInput {
+  display: block;
+  width: 100%;
+  margin: 20px 0;
+}
+
+td,
+th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+tr:hover {
+  background-color: #ddd;
+}
+
+th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #009cde;
+  color: white;
+}
+
+.second {
+}
+
+.footer {
+  background: black;
+  color: white;
+  padding: 40px;
+  text-align: center;
+}
+.form {
+  border: 10px solid black;
+  position: absolute;
+  top: 200px;
+  bottom: 200px;
+  right: 700px;
+  left: 700px;
+  border-width: 5px;
+  box-sizing: 100px 100px;
+  width: 200px;
+  height: 200px;
+  background-color: rgb(26, 112, 84);
+  color: rgb(150, 107, 59);
+}
+.Input {
+  border: 10px solid black;
+  position: absolute;
+  top: 300px;
+  bottom: 300px;
+  right: 800px;
+  left: 800px;
+  border-width: 5px;
+  box-sizing: 100px 100px;
+  width: 200px;
+  height: 200px;
+  background-color: rgb(22, 59, 138);
+  color: rgb(136, 48, 62);
+}
+.put {
+  border: 10px solid black;
+  position: absolute;
+  top: 400px;
+  bottom: 400px;
+  right: 900px;
+  left: 900px;
+  border-width: 5px;
+  box-sizing: 100px 100px;
+  width: 200px;
+  height: 200px;
+  background-color: rgb(163, 44, 44);
+  color: rgb(78, 45, 5);
+}
+.om {
+  border: 10px solid black;
+  position: absolute;
+  top: 500px;
+  bottom: 500px;
+  right: 1000px;
+  left: 1000px;
+  border-width: 5px;
+  box-sizing: 100px 100px;
+  width: 200px;
+  height: 200px;
+  background-color: rgb(84, 8, 119);
+  color: rgb(248, 169, 73);
+}
+.ft {
+  border: 10px solid black;
+  position: absolute;
+  top: 600px;
+  bottom: 600px;
+  right: 1100px;
+  left: 1100px;
+  border-width: 5px;
+  box-sizing: 100px 100px;
+  width: 200px;
+  height: 200px;
+  background-color: rgb(120, 155, 143);
+  color: rgb(233, 193, 145);
+}
+.jim {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.ellis {
+  color: crimson;
+}
